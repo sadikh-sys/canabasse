@@ -1,7 +1,7 @@
 {
   "version": 2,
   "env": {
-    "NEXT_PUBLIC_API_URL": "@next_public_api_url"
+    "NEXT_PUBLIC_API_URL": "https://ton-backend.vercel.app"
   },
   "headers": [
     {
